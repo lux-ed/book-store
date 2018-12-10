@@ -1,3 +1,0 @@
-([('frontend',
-   '/Users/lux/Desktop/projects/book-store/dist/frontend',
-   'EXECUTABLE')],)
