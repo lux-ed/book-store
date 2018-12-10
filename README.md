@@ -1,1 +1,1 @@
-# book-store
+# Book store, A Desktop Database Application

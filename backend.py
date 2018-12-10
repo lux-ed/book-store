@@ -1,4 +1,4 @@
-Kimport sqlite3
+import sqlite3
 
 #A connection to the database 
 def connect():
